@@ -1,0 +1,66 @@
+.nombre {
+  color: #d400ff;
+  font-size: 1.5em;
+  font-family: cursive;
+  text-align: center;
+  text-decoration: lightcoral;
+}
+h1 {
+  color: #ffff00;
+  font-size: 4em;
+  text-align: center;
+  text-decoration: underline;
+  font-family: cursive;
+}
+header {
+  border-bottom: #ffff00;
+  background-color: aqua;
+}
+p a {
+  color: #232121;
+  font-size: 1.2em;
+}
+body {
+  background-image: linear;
+}
+.principal {
+  text-align: center;
+  background-color: lightpink;
+}
+.resumen {
+  background-color: greenyellow;
+  display: block;
+  
+}
+footer {
+  font-size: small;
+  font-style: oblique;
+  color: violet;
+  background-color: rgb(28, 27, 27);
+}
+nav {
+  background-color: rgb(249, 145, 145);
+  color: rgb(236, 230, 221);
+  text-align: left;
+}
+.input {
+  background-origin: padding-box;
+  border-radius: 0ch;
+}
+.boton {
+  background-color: #09ff00;
+}
+p {
+  color: blue;
+  font-family: sans;
+  font-size: 1em;
+}
+.result {
+  color: green;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+}
+body{
+    padding: 0px;
+    margin: 0px;
+}
